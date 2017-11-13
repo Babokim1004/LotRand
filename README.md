@@ -4,4 +4,4 @@
 
 ## 실행
 
-  python newrandlot.py
+$ python newrandlot.py
