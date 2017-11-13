@@ -9,3 +9,6 @@ $ python newrandlot.py <이> <전> <당> <첨> <번> <호> <계산 수행 횟수
 ### 예제
 
 $ python newrandlot.py 5 12 34 38 41 45 31415
+
+# Licence
+  GPL 2.0
